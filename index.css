@@ -175,10 +175,11 @@ section{
         flex-direction: column;
         align-items: center;
     }
-    footer{
+    .footer{
         font-size: 10px;
+        padding: 15px 0;
     }
-    footer .footer-title{
+    .footer .footer-title{
         font-weight: 700;
     }
 
