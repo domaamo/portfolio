@@ -154,7 +154,8 @@ section{
         padding: 12px 20px;
     }
     .logo{
-        padding-right: 15px;
+        position: relative;
+        right: 70px;
     }
     .nav a{
         padding-left: 5px;
