@@ -149,7 +149,7 @@ section{
 .footer-title span{
     color: #3a6cf4;
 }
-@media (max-width:1024px){
+@media (max-width:1023px){
     header{
         padding: 12px 20px;
     }
